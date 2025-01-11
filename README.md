@@ -1,1 +1,2 @@
 # Mall-Visiting-Customer-Data_UnSupervised_Model
+The "Mall-Visiting-Customer-Data_UnSupervised_Model" project involves analyzing customer data collected from mall visitors to identify patterns and segment customers into groups based on their behavior, preferences, or demographic characteristics. The primary goal is to use unsupervised learning techniques, such as clustering algorithms, to derive meaningful insights that can inform business strategies like targeted marketing, product placement, or personalized services.
